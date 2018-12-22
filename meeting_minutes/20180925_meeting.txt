@@ -1,0 +1,24 @@
+# meeting Tuesday 09/25/2018
+
+# Gripper Design
+- gripper grips well
+- think about mounting for voltage regulator??
+- look today integrating motor with other joints
+
+# Cameras and kinect
+- Integration left to do
+- negative z values for off the board
+- finish block detection and color segmentation -- Mon 10/01/2018
+
+# Teach and repeat
+- Done -- check with Peter
+
+# Kinematics
+- Forward kinematics done, 
+- Inverse kinematics left to do
+
+# Todo
+-- all try and get checkpoints passed with instructors by Mon 10/01/2018
+- Tom finish inverse kinematics, and verify forward kinematics by Mon 10/01/2018
+
+

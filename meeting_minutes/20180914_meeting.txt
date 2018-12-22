@@ -1,0 +1,33 @@
+# first meeting Friday 09/14/2018
+
+# Gripper design
+- Thickness of 'gripper2' plates -- will they be strong enough?
+- Could Gripper 2 plates be made from laser cut wood?
+- Gripper 2 'rod'/ rivet -- steel or 3D printed material, ask Peter. 
+- Do first print -- try and have a first mockup on Wednesday the 09/19/2018
+- Approx gripper dimensions:
+	- total length ~140mm
+	- center offset ~10mm
+
+# Cameras & Kinect
+- Calibration with chessboard to find intrinsic matrix -- Done
+- Matrix saved intrinsic matrix to csv instead of cfg
+- Click points on image -- before or after undistortion? Think before, but check notes
+
+# Teach & Repeat
+- Works fine but jerky -- needs to be smoothed
+
+# Kinematics
+- choose end effector pose to be center of 'block' being gripped
+
+ 
+ACTIONS for Wednesday 09/19/2018:
+- Tianyi
+	- send stl/ dimensions to Tom for kinematics 
+	- First draft of printed Gripper
+- Justin 
+	- To work on mapping pixels to positions.
+	- Integrate kinect and camera 
+- Tom
+	- 'Generate cubic spline' for smoothing trajectory
+
